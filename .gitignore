@@ -2,6 +2,7 @@ Default ignored files
 /NestedClasses.iml
 /README.md
 .idea/shelf/
+.idea/.gitignore
 .idea/workspace.xml
 .idea/misc.xml
 .idea/modules.xml
